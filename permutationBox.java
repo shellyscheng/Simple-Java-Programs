@@ -1,8 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//A simple JAVA GUI to implement permutation for a string 
+
 package permutations;
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -14,8 +11,8 @@ import java.awt.event.*;
 import java.util.ArrayList;
 
 /**
- *
- * @author Shiying
+ * @author Shiying Cheng
+ * email: Shiying.Phyllis.Cheng@gmail.com
  */
 public class permutationBox extends JFrame {
     private JPanel myPanel;
