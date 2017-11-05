@@ -11,3 +11,6 @@ A simple JAVA GUI to implement permutation for a string
 ## Count the frequency of words in a file
 A simple Java program that reads a list of words from a word file through the terminal, and removes all redundant words and store the output into another word file.
 
+
+## Animation
+a simple Java animation programming of a ball
