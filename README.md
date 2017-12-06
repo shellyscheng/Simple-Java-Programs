@@ -13,8 +13,8 @@ on to stack 1. Dequeue operations are completed with a pop from stack 2. Obvious
 
 Implement a class called SymbolBalance.java . It should take a the name of a java file as a command line argument. Read in the file and check to make sure that all { }'s, ( )'s, [ ]'s, " "'s, and /* 's are properly balanced. Make sure to ignore characters within literal strings and comment blocks.
 
-## PermutationBox
-A simple JAVA GUI to implement permutation for a string
+## Permutation Box
+Permutation for a string
 
 ## Greedy Snake Game
 
