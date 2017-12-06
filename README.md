@@ -3,7 +3,11 @@
 Most of the code here from 2016 when I first studied Java
 
 ## LinkedList Graphical user interface (GUI)
-Write a class for managing a linked list of strings in alphabetical order. Use the class in a program to keep an alphabetical list of animals. Include an appropriate GUI for input and output. There should be at least be a text field for inputting an animal name and buttons for performing the following tasks: Add a name, Delete a name, Find a name, List all names. The output should appear in a JTextArea that is scrollable. You may want to display the list after each operation.
+Write a class for managing a linked list of strings in alphabetical order. Use the class in a program to keep an alphabetical list of animals. Include an appropriate GUI for input and output. There should be at least be a text field for inputting an animal name and buttons for performing the following tasks: Add a name, Delete a name, Find a name, List all names. The output should appear in a JTextArea that is scrollable. You may want to display the list after each operation
+
+## Two Stack Queue
+Build a queue out of two completely separate stacks, S1 and S2. Enqueue operations happen by pushing the data
+on to stack 1. Dequeue operations are completed with a pop from stack 2. Obviously you will have to find some way to get the input stack information over to the output stack. Your job is to figure out how and when to do that, using only push and pop operations.
 
 
 ## PermutationBox
