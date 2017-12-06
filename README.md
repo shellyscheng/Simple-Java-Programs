@@ -9,14 +9,19 @@ Write a class for managing a linked list of strings in alphabetical order. Use t
 Build a queue out of two completely separate stacks, S1 and S2. Enqueue operations happen by pushing the data
 on to stack 1. Dequeue operations are completed with a pop from stack 2. Obviously you will have to find some way to get the input stack information over to the output stack. Your job is to figure out how and when to do that, using only push and pop operations.
 
+## Symbol Balancing
+
+Implement a class called SymbolBalance.java . It should take a the name of a java file as a command line argument. Read in the file and check to make sure that all { }'s, ( )'s, [ ]'s, " "'s, and /* 's are properly balanced. Make sure to ignore characters within literal strings and comment blocks.
 
 ## PermutationBox
 A simple JAVA GUI to implement permutation for a string
 
-
 ## Greedy Snake Game
 
 ## Tic Tac Toe Game
+[1] [2] [3] 
+[4] [5] [6] 
+[7] [8] [9] 
 
 ## File
 Write a program to read a name and then check to see if it is on a disk file.  If not, add it to the end of the file. The user inputs the name and file either from the console, a JOptionPane, or your GUI.
